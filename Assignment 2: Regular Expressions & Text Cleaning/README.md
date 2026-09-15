@@ -1,4 +1,4 @@
-# Assignment 3: Regular Expressions & Text Cleaning
+# Assignment 2: Regular Expressions & Text Cleaning
 
 Resume Information Extraction using Regular Expressions
 
