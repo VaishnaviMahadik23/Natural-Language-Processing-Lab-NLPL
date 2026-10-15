@@ -18,7 +18,7 @@ This project applies **Latent Semantic Analysis (LSA)** and **Latent Dirichlet A
 ## Dataset
 The input dataset is stored in:
 
-`data/telecom_support_tickets.csv`
+`telecom_support_tickets.csv`
 
 The dataset contains customer support ticket descriptions in a `text` column.
 
@@ -31,7 +31,7 @@ pip install scikit-learn
 ## How to Run
 
 ```bash
-python main.py
+python Assignment5.py
 ```
 
 ## Output
