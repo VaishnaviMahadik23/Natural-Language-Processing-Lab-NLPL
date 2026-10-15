@@ -33,7 +33,7 @@ python -m spacy download en_core_web_sm
 ## How to Run
 
 ```bash
-python main.py
+python Assignment6.py
 ```
 
 ## Output
