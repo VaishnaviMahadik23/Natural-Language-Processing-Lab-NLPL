@@ -26,7 +26,7 @@ No external libraries are required for the current simulation script.
 
 ## How to Run
 ```bash
-python main.py
+python Assignment9.py
 ```
 
 ## Output
