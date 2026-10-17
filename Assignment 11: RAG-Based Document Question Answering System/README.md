@@ -29,7 +29,7 @@ pip install scikit-learn
 
 ## How to Run
 ```bash
-python main.py
+python Assignment11.py
 ```
 
 ## Output
